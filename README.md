@@ -46,6 +46,5 @@ Objective
 
 To simplify the work of data analysts by combining AI and workflow automation, enabling faster and smarter data analysis with minimal manual effort.
 
-https://github.com/Athira918/AI-Powered-Data-Analysis-Agent/issues/1#issue-4709484929
-
+<img width="1883" height="911" alt="Image" src="https://github.com/user-attachments/assets/4ee9c8d1-af48-4646-908a-ec883ec520c5" />
 AI Agents • Data Analytics • n8n • Google Gemini • Workflow Automation • Business Intelligence • Generative AI • Data Processing • Automation • Executive Insights
